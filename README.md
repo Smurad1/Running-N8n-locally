@@ -60,5 +60,3 @@ docker-compose up -d
 **Requirements:**
 - Docker installed and running
 - Port 5678 available
-
-Would you like me to help you set up Docker Compose or troubleshoot any issues?
